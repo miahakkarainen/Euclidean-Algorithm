@@ -23,7 +23,7 @@ int main() {
 		quotients.clear();
 		algover = false;
 
-		cout << "\nCalculate the greaest common divisor of integers a and b \n" << "\nEnter a:";
+		cout << "\nCalculate the greaest common divisor of positive integers a and b \n" << "\nEnter a:";
 		cin >> numa;
 
 		cout << "Enter b:";
